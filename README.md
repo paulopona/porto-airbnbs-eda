@@ -3,4 +3,4 @@ Data cleaning and Exploratory Data Analysis project with the goal of exploring p
 
 <br />
 
-Tools/Languages: Jupyter Notebook, Python
+Language(s): Python
